@@ -121,8 +121,6 @@ My goal is to bridge the gap between software development and AI by building app
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SravasMelarkode&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SravasMelarkode&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 🌐 Connect With Me
